@@ -1,6 +1,11 @@
 
 public class ProgramaComposicionCono {
     
+    /**
+     * Clase ProgramaComposicionCono
+     * @param datos 
+     */
+    
  private static void imprimir (Object datos) {
     System.out.println(datos);
  }
